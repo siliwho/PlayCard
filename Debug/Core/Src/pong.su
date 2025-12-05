@@ -1,0 +1,5 @@
+../Core/Src/pong.c:35:12:pong_exit_menu	88	static
+../Core/Src/pong.c:87:13:reset_ball	16	static
+../Core/Src/pong.c:103:13:draw_pong	32	static
+../Core/Src/pong.c:118:13:fast_draw_pong	32	static
+../Core/Src/pong.c:190:5:pong_run	32	static

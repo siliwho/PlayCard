@@ -1,0 +1,9 @@
+../Core/Src/comm.c:45:13:process_frame	24	static
+../Core/Src/comm.c:82:13:parse_rx_byte	16	static
+../Core/Src/comm.c:138:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/comm.c:152:13:send_frame	32	static
+../Core/Src/comm.c:182:6:comm_send_todo_toggle	16	static
+../Core/Src/comm.c:187:6:comm_request_image	8	static
+../Core/Src/comm.c:192:6:comm_request_todos	8	static
+../Core/Src/comm.c:203:13:comm_task	16	static
+../Core/Src/comm.c:214:6:comm_init	48	static

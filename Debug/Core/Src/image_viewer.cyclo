@@ -1,0 +1,3 @@
+../Core/Src/image_viewer.c:8:13:draw_no_image_screen	1
+../Core/Src/image_viewer.c:20:13:draw_image_from_buf	5
+../Core/Src/image_viewer.c:44:5:image_viewer_run	2

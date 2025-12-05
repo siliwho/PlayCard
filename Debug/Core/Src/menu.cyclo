@@ -1,0 +1,3 @@
+../Core/Src/menu.c:22:19:nine_line_offset	1
+../Core/Src/menu.c:24:6:menu_init	1
+../Core/Src/menu.c:33:7:menu_run	9

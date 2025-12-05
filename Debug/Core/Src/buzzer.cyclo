@@ -1,0 +1,9 @@
+../Core/Src/buzzer.c:13:13:_buzzer_set	5
+../Core/Src/buzzer.c:34:13:_buzzer_stop	1
+../Core/Src/buzzer.c:39:6:buzzer_init	1
+../Core/Src/buzzer.c:46:6:buzzer_beep	1
+../Core/Src/buzzer.c:54:6:buzzer_food	1
+../Core/Src/buzzer.c:64:6:buzzer_win	2
+../Core/Src/buzzer.c:76:6:buzzer_laser	2
+../Core/Src/buzzer.c:86:6:buzzer_explosion	2
+../Core/Src/buzzer.c:102:6:buzzer_fail	1

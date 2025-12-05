@@ -1,0 +1,3 @@
+../Core/Src/input.c:7:6:input_init	1
+../Core/Src/input.c:9:12:input_read	1
+../Core/Src/input.c:21:6:input_clear	1
