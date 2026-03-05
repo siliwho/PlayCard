@@ -182,3 +182,7 @@ Checksum validation ensures corruption detection on noisy UART lines. Failed che
     http_client/
     uart_protocol/
 ```
+
+
+![alt text](image.png)
+![alt text](playcard_page-0001.jpg)

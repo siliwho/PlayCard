@@ -1,4 +1,4 @@
-27107108603879536
+27108881328545657
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -71399,6 +71399,13 @@ MCU_personal
 0
 4
 4
+MCU_personal
+BLACK PILL V3
+
+
+0
+40
+40
 MCU_personal
 BlackPill_SWD_2
 BlackPill module with pin headers / sockets. SWD broken out to PCB.
