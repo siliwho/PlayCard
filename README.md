@@ -186,3 +186,5 @@ Checksum validation ensures corruption detection on noisy UART lines. Failed che
 
 ![alt text](image.png)
 ![alt text](playcard_page-0001.jpg)
+
+![alt text](image-1.png)
