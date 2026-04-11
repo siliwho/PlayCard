@@ -4,6 +4,8 @@
 
 This project implements a compact handheld device with a modular application framework, capable of rendering a real-time user interface, running simple games, displaying images, and managing a TODO list. The system integrates a dual-microcontroller architecture combining deterministic UI performance with modern IoT connectivity.
 
+ok
+
 ---
 
 ## **1. Overview**
@@ -183,8 +185,8 @@ Checksum validation ensures corruption detection on noisy UART lines. Failed che
     uart_protocol/
 ```
 
-
 ![alt text](image.png)
 ![alt text](playcard_page-0001.jpg)
 
 ![alt text](image-1.png)
+
